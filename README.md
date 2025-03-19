@@ -36,7 +36,7 @@ This project demonstrates how to build a text generation model using an LSTM net
    ```bash
    pip install tensorflow pandas numpy
    ```
-3. **Run the script with:
+3. **Run the script with:**
    ```bash
    python your_script.py
    ```
